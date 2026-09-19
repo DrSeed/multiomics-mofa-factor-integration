@@ -1,0 +1,3 @@
+block,n_features,variance_explained_shared
+omics_1_rna,50,0.578
+omics_2_methyl,30,0.594
